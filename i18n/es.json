@@ -1,0 +1,119 @@
+{
+  "lang": "es",
+  "locale": "es",
+  "meta": {
+    "title": "Pixelpelula — Tu equipo escribe código rápido. ¿Por qué el release tarda semanas?",
+    "description": "Release Health Check: un diagnóstico de 2 semanas que mide dónde sangra tu pipeline de delivery y te entrega un plan de 90 días. Números, no opiniones."
+  },
+  "hero": {
+    "h1": "Tu IA escribe código 3x más rápido. Tus releases siguen tardando 6 semanas.",
+    "sub": "Yo arreglo el cuello de botella del delivery. El Release Health Check es un diagnóstico de 2 semanas que mide dónde pierde tiempo tu pipeline — y te entrega un plan de 90 días. Números, no opiniones.",
+    "cta": "Agendar una llamada de 30 min",
+    "ctaSecondary": "Ver cómo funciona ↓"
+  },
+  "problem": {
+    "h2": "El código se volvió barato. Entregar se volvió caro.",
+    "text": "En 2026, los agentes de IA generan código más rápido que nunca. Pero el cuello de botella de tu equipo se movió: colas de review, CI inestable, releases que son una ceremonia, deploys que dan miedo. El resultado es un equipo que produce mucho y entrega poco — y un board preguntando por qué."
+  },
+  "proof": {
+    "h2": "Ya lo hice antes. Tres veces.",
+    "cards": [
+      {
+        "before": "3–4 releases/año",
+        "after": "4/mes",
+        "text": "Scale-up de IA, Austria. Reconstrucción del proceso de delivery y release."
+      },
+      {
+        "before": "Monolito",
+        "after": "microservicios multi-tenant",
+        "text": "Refactorización completa con reorganización del equipo, sin parar la operación."
+      },
+      {
+        "before": "Instituciones europeas",
+        "after": null,
+        "text": "Proceso de delivery en un programa multi-equipo, en un entorno altamente regulado."
+      }
+    ],
+    "closing": "25 años de ingeniería. Tres contextos distintos. El mismo resultado: releases predecibles."
+  },
+  "offer": {
+    "h2": "Release Health Check — 2 semanas, alcance cerrado, precio cerrado.",
+    "intro": "Lo que recibes:",
+    "items": [
+      {
+        "lead": "Baseline DORA medido",
+        "text": "deployment frequency, lead time, change failure rate, MTTR + rework rate. Medido de tus datos (Git, CI, tracker), no preguntado."
+      },
+      {
+        "lead": "Mapa del pipeline",
+        "text": "lead time por etapa: dónde mueren las horas entre \"listo\" y \"en el aire\"."
+      },
+      {
+        "lead": "Top-5 cuellos de botella",
+        "text": "cada uno con evidencia, coste mensual en € y la corrección recomendada."
+      },
+      {
+        "lead": "Plan de 90 días",
+        "text": "ejecutable por el equipo que ya tienes."
+      },
+      {
+        "lead": "Workshop de 90 min",
+        "text": "presentación de los hallazgos. Sin culpables, sin slides infinitos."
+      }
+    ],
+    "notIncluded": "No incluye: implementación. (Si quieres ayuda con la ejecución después, existe un formato de advisory — hablamos tras el diagnóstico.)",
+    "price": "2.000 €",
+    "priceNote": "tarifa founding para los 3 primeros clientes; después 3.500 €"
+  },
+  "how": {
+    "h2": "Tres pasos. Casi no me ves.",
+    "steps": [
+      {
+        "lead": "Datos",
+        "text": "Acceso de solo lectura a Git, CI y tracker. Mis scripts lo miden todo. Tu equipo no para."
+      },
+      {
+        "lead": "Conversaciones",
+        "text": "Cuestionario de 7 minutos para el equipo (solo clics) + 3 entrevistas cortas con personas clave."
+      },
+      {
+        "lead": "Workshop",
+        "text": "En 2 semanas recibes el informe y el plan, presentados al equipo en 90 minutos."
+      }
+    ]
+  },
+  "about": {
+    "h2": "Quién lo hace",
+    "text": "Soy Teo Baiocco. 25 años en ingeniería de software — dev, arquitecto, tech lead, manager. Actualmente consulto para instituciones europeas a través de Pixelpelula. Mi trabajo es encontrar dónde se atasca el delivery y desatascarlo: no con una herramienta nueva, sino con el proceso correcto para el equipo que existe. No vendo promesas; vendo historial."
+  },
+  "faq": [
+    {
+      "q": "¿Remoto?",
+      "a": "Sí, async-first. Solo 2 llamadas síncronas (kickoff de 45 min + workshop de 90 min)."
+    },
+    {
+      "q": "¿Qué acceso necesitáis dar?",
+      "a": "Solo lectura: repositorio, logs de CI, export del tracker. Sin instalación, sin agente, sin VPN."
+    },
+    {
+      "q": "¿Y si nuestros datos son un desastre?",
+      "a": "Eso también es un hallazgo — entra en el informe como \"observability gap\", con recomendación."
+    },
+    {
+      "q": "¿Para quién NO es?",
+      "a": "Equipos que buscan una contratación disfrazada de consultoría. Yo diagnostico y planifico; la ejecución es de tu equipo (o del advisory, después)."
+    }
+  ],
+  "finalCta": {
+    "h2": "Tu próximo release puede ser el primero sin miedo.",
+    "cta": "Agendar una llamada de 30 min",
+    "email": "info@pixelpelula.com",
+    "calLabel": "cal.com/teofilo-baiocco — 30 min",
+    "calUrl": "https://app.cal.com/discover/teofilo-baiocco-irtmjz/30min"
+  },
+  "footer": {
+    "brand": "Pixelpelula",
+    "email": "info@pixelpelula.com",
+    "year": "2026"
+  }
+}

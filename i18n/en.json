@@ -1,0 +1,119 @@
+{
+  "lang": "en",
+  "locale": "en",
+  "meta": {
+    "title": "Pixelpelula — Your team writes code fast. Why does shipping take weeks?",
+    "description": "Release Health Check: a 2-week diagnostic that measures where your delivery pipeline bleeds and hands you a 90-day plan. Numbers, not opinions."
+  },
+  "hero": {
+    "h1": "Your AI writes code 3x faster. Your releases still take 6 weeks.",
+    "sub": "I fix the delivery bottleneck. The Release Health Check is a 2-week diagnostic that measures where your pipeline loses time — and hands you a 90-day plan. Numbers, not opinions.",
+    "cta": "Book a 30-min call",
+    "ctaSecondary": "See how it works ↓"
+  },
+  "problem": {
+    "h2": "Code got cheap. Shipping got expensive.",
+    "text": "In 2026, AI agents generate code faster than ever. But your team's bottleneck moved: review queues, flaky CI, release ceremonies, scary deploys. The result is a team that produces a lot and ships little — and a board asking why."
+  },
+  "proof": {
+    "h2": "I've done this before. Three times.",
+    "cards": [
+      {
+        "before": "3–4 releases/year",
+        "after": "4/month",
+        "text": "AI scale-up, Austria. Rebuilt the delivery and release process."
+      },
+      {
+        "before": "Monolith",
+        "after": "multi-tenant microservices",
+        "text": "Full refactor with team reorganization, without stopping operations."
+      },
+      {
+        "before": "European institutions",
+        "after": null,
+        "text": "Delivery process for a multi-team programme in a high-regulation environment."
+      }
+    ],
+    "closing": "25 years of engineering. Three different contexts. The same result: predictable releases."
+  },
+  "offer": {
+    "h2": "Release Health Check — 2 weeks, fixed scope, fixed price.",
+    "intro": "What you get:",
+    "items": [
+      {
+        "lead": "Measured DORA baseline",
+        "text": "deployment frequency, lead time, change failure rate, MTTR + rework rate. Measured from your data (Git, CI, tracker), not surveyed."
+      },
+      {
+        "lead": "Pipeline map",
+        "text": "lead time per stage: where hours die between \"ready\" and \"live\"."
+      },
+      {
+        "lead": "Top-5 bottlenecks",
+        "text": "each with evidence, monthly cost in €, and the recommended fix."
+      },
+      {
+        "lead": "90-day plan",
+        "text": "executable by the team you already have."
+      },
+      {
+        "lead": "90-min workshop",
+        "text": "findings presented to the team. No blame, no endless slides."
+      }
+    ],
+    "notIncluded": "Not included: implementation. (If you want execution help afterwards, there's an advisory format — we talk after the diagnostic.)",
+    "price": "€2,000",
+    "priceNote": "founding rate for the first 3 clients; then €3,500"
+  },
+  "how": {
+    "h2": "Three steps. You barely see me.",
+    "steps": [
+      {
+        "lead": "Data",
+        "text": "Read-only access to Git, CI and your tracker. My scripts measure everything. Your team doesn't stop."
+      },
+      {
+        "lead": "Conversations",
+        "text": "A 7-minute team questionnaire (clicks only) + 3 short interviews with key people."
+      },
+      {
+        "lead": "Workshop",
+        "text": "Within 2 weeks you get the report and the plan, presented to the team in 90 minutes."
+      }
+    ]
+  },
+  "about": {
+    "h2": "Who does this",
+    "text": "I'm Teo Baiocco. 25 years in software engineering — developer, architect, tech lead, manager. I currently consult for European institutions through Pixelpelula. My job is finding where delivery gets stuck and unsticking it: not with a new tool, but with the right process for the team that exists. I don't sell promises; I sell track record."
+  },
+  "faq": [
+    {
+      "q": "Remote?",
+      "a": "Yes, async-first. Only 2 synchronous calls (45-min kickoff + 90-min workshop)."
+    },
+    {
+      "q": "What access do you need?",
+      "a": "Read-only: repository, CI logs, tracker export. No installation, no agent, no VPN."
+    },
+    {
+      "q": "What if our data is a mess?",
+      "a": "That's a finding too — it goes in the report as an \"observability gap\", with a recommendation."
+    },
+    {
+      "q": "Who is this NOT for?",
+      "a": "Teams looking for a hire disguised as consulting. I diagnose and plan; execution belongs to your team (or to advisory, later)."
+    }
+  ],
+  "finalCta": {
+    "h2": "Your next release can be the first boring one.",
+    "cta": "Book a 30-min call",
+    "email": "info@pixelpelula.com",
+    "calLabel": "cal.com/teofilo-baiocco — 30 min",
+    "calUrl": "https://app.cal.com/discover/teofilo-baiocco-irtmjz/30min"
+  },
+  "footer": {
+    "brand": "Pixelpelula",
+    "email": "info@pixelpelula.com",
+    "year": "2026"
+  }
+}
