@@ -143,9 +143,11 @@ body {
   letter-spacing: -0.04em;
 }
 .wordmark-pelula {
-  font-family: var(--serif);
-  font-size: 1.28rem;
-  margin-left: 1px;
+  font-family: var(--mono);
+  font-weight: 500;
+  font-size: 1.02rem;
+  letter-spacing: -0.04em;
+  color: var(--accent);
 }
 
 .lang-switch {
